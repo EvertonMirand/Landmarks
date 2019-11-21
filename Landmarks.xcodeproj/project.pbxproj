@@ -16,6 +16,7 @@
 		AC411F8D2384C71200D20471 /* LandmarksTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC411F8C2384C71200D20471 /* LandmarksTests.swift */; };
 		AC411F982384C71200D20471 /* LandmarksUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC411F972384C71200D20471 /* LandmarksUITests.swift */; };
 		ACEEA88E23861B7F00495ECA /* CircleImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACEEA88D23861B7F00495ECA /* CircleImage.swift */; };
+		ACEEA89023861CCA00495ECA /* MapView.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACEEA88F23861CCA00495ECA /* MapView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		AC411F972384C71200D20471 /* LandmarksUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandmarksUITests.swift; sourceTree = "<group>"; };
 		AC411F992384C71200D20471 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		ACEEA88D23861B7F00495ECA /* CircleImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleImage.swift; sourceTree = "<group>"; };
+		ACEEA88F23861CCA00495ECA /* MapView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -109,6 +111,7 @@
 				AC411F832384C71100D20471 /* Info.plist */,
 				AC411F7D2384C71100D20471 /* Preview Content */,
 				ACEEA88D23861B7F00495ECA /* CircleImage.swift */,
+				ACEEA88F23861CCA00495ECA /* MapView.swift */,
 			);
 			path = Landmarks;
 			sourceTree = "<group>";
@@ -272,6 +275,7 @@
 			files = (
 				AC411F762384C70B00D20471 /* AppDelegate.swift in Sources */,
 				ACEEA88E23861B7F00495ECA /* CircleImage.swift in Sources */,
+				ACEEA89023861CCA00495ECA /* MapView.swift in Sources */,
 				AC411F782384C70B00D20471 /* SceneDelegate.swift in Sources */,
 				AC411F7A2384C70B00D20471 /* ContentView.swift in Sources */,
 			);
